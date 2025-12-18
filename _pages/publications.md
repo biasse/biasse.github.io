@@ -12,13 +12,13 @@ nav_order: 2
 
 <div class="publications">
 
-## Miscellaneous
+<h2>Miscellaneous</h2>
 {% bibliography --query @misc %}
 
-## Preprints
+<h2>Preprints</h2>
 {% bibliography --query @unpublished %}
 
-## Peer-reviewed publications
+<h2>Peer-reviewed publications</h2>
 {% bibliography --query @article || @inproceedings %}
 
 </div>
