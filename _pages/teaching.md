@@ -6,8 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-## Teaching
-
 ### University of South Florida
 
 - **MAD4515** — Mathematics of Quantum Computing

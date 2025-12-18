@@ -14,6 +14,21 @@ computational number theory, and quantum algorithms. I am particularly intereste
 algorithmic hardness of algebraic problems underlying cryptographic constructions and in
 the design of efficient classical and quantum algorithms.
 
-## Publications
+---
 
-{% bibliography %}
+## Miscellaneous
+
+{% bibliography --query @misc %}
+
+---
+
+## Preprints
+
+{% bibliography --query @unpublished %}
+
+---
+
+## Peer-reviewed publications
+
+{% bibliography --query @article || @inproceedings %}
+

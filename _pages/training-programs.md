@@ -6,7 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-## Training Programs
 
 ### NSF REU Site in Cryptography and Coding Theory
 
