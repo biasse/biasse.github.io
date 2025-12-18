@@ -6,8 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-## Outreach
-
 ### CodeBreakHERs Summer Camp
 
 I direct and support **CodeBreakHERs**, a free cybersecurity summer camp for middle- and
