@@ -36,8 +36,9 @@ A key goal is to make cybersecurity concepts feel *accessible and empowering*. A
   </div>
 </div>
 
-The **USF Crypto Center YouTube channel** collects educational material aligned with the Center’s activities in cryptography and coding theory, including lecture-style explanations, course support videos (e.g., problem-solving tutorials), and research-seminar content. :contentReference[oaicite:1]{index=1}  
-It’s meant to be useful both as a companion to coursework and as an outreach resource for anyone who wants a structured entry point into modern cryptography.
+The **USF Crypto Center YouTube channel** collects educational material aligned with the Center’s activities in cryptography and coding theory, including lecture-style explanations, course support videos (e.g., problem-solving tutorials), and research-seminar content.
+
+It is meant to be useful both as a companion to coursework and as an outreach resource for anyone who wants a structured entry point into modern cryptography.
 
 ▶️ https://www.youtube.com/@usfcryptocenter9924
 
