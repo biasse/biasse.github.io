@@ -483,11 +483,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/biasse", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=KRINDCEAAAAJ", "_blank");
+        },
+      },{
         id: 'social-youtube',
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@https://www.youtube.com/@usfcryptocenter9924", "_blank");
+          window.open("https://youtube.com/@usfcryptocenter9924", "_blank");
         },
       },{
       id: 'light-theme',
