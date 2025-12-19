@@ -9,7 +9,12 @@ nav_order: 3
 
 ## NSF REU Site in Cryptography and Coding Theory
 
-<img src="https://i0.wp.com/www.usf-crypto.org/wp-content/uploads/2024/09/IMG_20220511_140525891_HDR.jpg?ssl=1" alt="USF Crypto REU group" style="max-width:100%; height:auto; margin-bottom:1em;" />
+<div class="program-collage">
+  <img src="/assets/img/programs/IMG_20220511_140525891_HDR.jpg" alt="REU group photo">
+  <img src="/assets/img/programs/IMG_0023.JPG" alt="REU participants">
+  <img src="/assets/img/programs/IMG_1816.jpg" alt="REU classroom discussion">
+  <img src="/assets/img/programs/52 Boating.JPG" alt="REU social activity">
+</div>
 
 I am the Director of an NSF-funded **Research Experiences for Undergraduates (REU) Site in Cryptography and Coding Theory** at the University of South Florida.
 The program provides an intensive summer research experience for undergraduate students interested in
@@ -31,7 +36,12 @@ publications, and pursue graduate programs in mathematics, computer science, or 
 
 ## NSF Research Training Group (RTG) in Applied Algebra
 
-<img src="https://i0.wp.com/www.usf-crypto.org/wp-content/uploads/2024/09/PXL_20240801_140750843.jpg?ssl=1" alt="RTG seminar or group" style="max-width:100%; height:auto; margin-bottom:1em;" />
+<div class="program-collage">
+  <img src="/assets/img/programs/PXL_20240801_140750843.jpg" alt="RTG group photo">
+  <img src="/assets/img/programs/Applied-NT-workshop.jpeg" alt="RTG workshop">
+  <img src="/assets/img/programs/Unknown-23.jpeg" alt="RTG poster session">
+  <img src="/assets/img/programs/IMG_1871.jpg" alt="RTG event">
+</div>
 
 I am the Director of an NSF-funded **Research Training Group (RTG) in Applied Algebra** at the University of
 South Florida. The RTG supports a coordinated set of research and training activities spanning multiple
