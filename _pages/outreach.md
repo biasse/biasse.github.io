@@ -26,13 +26,13 @@ A key goal is to make cybersecurity concepts feel *accessible and empowering*. A
 
 <div class="row text-center">
   <div class="col-md-4">
-    <img src="/assets/img/youtube/Seminar.png" class="img-fluid rounded mb-2" alt="Mathematics seminar lecture screenshot">
+    <img src="/assets/img/Youtube/Seminar.png" class="img-fluid rounded mb-2" alt="Mathematics seminar lecture screenshot">
   </div>
   <div class="col-md-4">
-    <img src="/assets/img/youtube/Lattices.png" class="img-fluid rounded mb-2" alt="Euclidean lattices lecture screenshot">
+    <img src="/assets/img/Youtube/Lattices.png" class="img-fluid rounded mb-2" alt="Euclidean lattices lecture screenshot">
   </div>
   <div class="col-md-4">
-    <img src="/assets/img/youtube/Quantum.png" class="img-fluid rounded mb-2" alt="Quantum Fourier Transform lecture screenshot">
+    <img src="/assets/img/Youtube/Quantum.png" class="img-fluid rounded mb-2" alt="Quantum Fourier Transform lecture screenshot">
   </div>
 </div>
 
