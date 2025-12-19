@@ -18,3 +18,22 @@
   display: block;
 }
 
+.outreach-collage {
+  display: grid;
+  gap: 0.9rem;
+  margin: 1.25rem 0;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 700px) {
+  .outreach-collage { grid-template-columns: repeat(3, 1fr); }
+}
+
+.outreach-collage img {
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
