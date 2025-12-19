@@ -1,14 +1,20 @@
-/* Program image collage */
+/* Program collage: 3 across on desktop, responsive on mobile */
 .program-collage {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
-  margin: 1.5rem 0;
+  gap: 0.9rem;
+  margin: 1.25rem 0;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+@media (min-width: 700px) {
+  .program-collage { grid-template-columns: repeat(3, 1fr); }
 }
 
 .program-collage img {
   width: 100%;
-  aspect-ratio: 4 / 3;   /* nice academic rectangle */
-  object-fit: cover;    /* crops instead of stretching */
-  border-radius: 6px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
 }
+

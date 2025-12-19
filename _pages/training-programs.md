@@ -11,7 +11,6 @@ nav_order: 3
 
 <div class="program-collage">
   <img src="/assets/img/programs/reu-group.jpg" alt="REU group photo">
-  <img src="/assets/img/programs/IMG_0023.JPG" alt="REU participants">
   <img src="/assets/img/programs/IMG_1816.jpg" alt="REU classroom discussion">
   <img src="/assets/img/programs/reu-boating.JPG" alt="REU social activity">
 </div>
@@ -39,7 +38,6 @@ publications, and pursue graduate programs in mathematics, computer science, or 
 <div class="program-collage">
   <img src="/assets/img/programs/rtg-group.jpg" alt="RTG group photo">
   <img src="/assets/img/programs/Applied-NT-workshop.jpeg" alt="RTG workshop">
-  <img src="/assets/img/programs/Unknown-23.jpeg" alt="RTG poster session">
   <img src="/assets/img/programs/IMG_1871.jpg" alt="RTG event">
 </div>
 
