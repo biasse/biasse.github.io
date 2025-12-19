@@ -58,17 +58,3 @@ and dynamic training ecosystem.
 
 ---
 
-## REU & RTG Community Snapshots
-
-<img src="https://i0.wp.com/www.usf-crypto.org/wp-content/uploads/2024/09/Media.jpeg?ssl=1" alt="program participants" style="max-width:100%; height:auto; margin-bottom:1em;" />
-
-This page highlights a few snapshots of our participants engaging with research, presentations, and collaborative
-workshops. These moments reflect the vibrant, inclusive community that the programs nurture.
-
-<img src="https://i0.wp.com/www.usf-crypto.org/wp-content/uploads/2020/11/84984568_806375893106680_3263643166015750144_o.jpg?ssl=1" alt="group photo" style="max-width:100%; height:auto; margin-bottom:1em;" />
-
-From collaborative problem-solving to formal poster presentations, the training programs blend rigorous
-mathematical inquiry with community building and student success.
-
----
-
