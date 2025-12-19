@@ -52,8 +52,8 @@ It is meant to be useful both as a companion to coursework and as an outreach re
   <img src="/assets/img/outreach/locke-keya-3.png" alt="Locke and Keya: frame 3">
 </div>
 
-**_Locke and Keya_** is a series of short animated videos that uses storytelling to introduce cybersecurity ideas through situations that feel familiar and concrete. The goal is to make concepts like secure browsing and communication privacy intuitive by embedding them in short narratives that are easy to share in classrooms and outreach events. :contentReference[oaicite:3]{index=3}
+**_Locke and Keya_** is a series of short animated videos that uses storytelling to introduce cybersecurity ideas through situations that feel familiar and concrete. The goal of the project is to make concepts such as secure communication, privacy, and adversarial thinking intuitive by embedding them in short narratives that are easy to share in classrooms and outreach events.
 
-Rather than presenting cybersecurity as a list of rules, the series emphasizes how adversaries think, what signals digital systems leak, and which habits improve privacy and security in everyday life—without requiring a technical background.
+Rather than presenting cybersecurity as a list of rules, the series emphasizes how attackers think, what information digital systems can inadvertently reveal, and which everyday habits can improve security and privacy without requiring a technical background.
 
-🔗 https://www.usf-crypto.org/lockeandkeya/ :contentReference[oaicite:4]{index=4}
+🔗 https://www.usf-crypto.org/lockeandkeya/
