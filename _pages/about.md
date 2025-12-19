@@ -3,6 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: Professor of Mathematics <a href='https://www.usf.edu/arts-sciences/departments/mathematics-statistics/'>University of South Florida</a>. 
+contact_note: Email is the best way to reach me.
+
 
 profile:
   align: right
