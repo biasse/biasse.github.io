@@ -10,10 +10,10 @@ nav_order: 3
 ## NSF REU Site in Cryptography and Coding Theory
 
 <div class="program-collage">
-  <img src="/assets/img/programs/IMG_20220511_140525891_HDR.jpg" alt="REU group photo">
+  <img src="/assets/img/programs/reu-group.jpg" alt="REU group photo">
   <img src="/assets/img/programs/IMG_0023.JPG" alt="REU participants">
   <img src="/assets/img/programs/IMG_1816.jpg" alt="REU classroom discussion">
-  <img src="/assets/img/programs/52 Boating.JPG" alt="REU social activity">
+  <img src="/assets/img/programs/reu-boating.JPG" alt="REU social activity">
 </div>
 
 I am the Director of an NSF-funded **Research Experiences for Undergraduates (REU) Site in Cryptography and Coding Theory** at the University of South Florida.
@@ -37,7 +37,7 @@ publications, and pursue graduate programs in mathematics, computer science, or 
 ## NSF Research Training Group (RTG) in Applied Algebra
 
 <div class="program-collage">
-  <img src="/assets/img/programs/PXL_20240801_140750843.jpg" alt="RTG group photo">
+  <img src="/assets/img/programs/rtg-group.jpg" alt="RTG group photo">
   <img src="/assets/img/programs/Applied-NT-workshop.jpeg" alt="RTG workshop">
   <img src="/assets/img/programs/Unknown-23.jpeg" alt="RTG poster session">
   <img src="/assets/img/programs/IMG_1871.jpg" alt="RTG event">
