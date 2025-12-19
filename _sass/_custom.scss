@@ -1,0 +1,14 @@
+/* Program image collage */
+.program-collage {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.program-collage img {
+  width: 100%;
+  aspect-ratio: 4 / 3;   /* nice academic rectangle */
+  object-fit: cover;    /* crops instead of stretching */
+  border-radius: 6px;
+}
