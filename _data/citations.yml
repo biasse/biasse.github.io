@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-01-09'
 papers:
   KRINDCEAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -122,7 +122,7 @@ papers:
     title: "On the quantum attacks against schemes relying on the hardness of finding a short generator of an ideal in Q (\u03B6pn)"
     year: '2015'
   KRINDCEAAAAJ:WF5omc3nYNoC:
-    citations: 45
+    citations: 46
     title: FHEW with efficient multibit bootstrapping
     year: '2015'
   KRINDCEAAAAJ:Wp0gIr-vW9MC:
@@ -170,7 +170,7 @@ papers:
     title: ANTS X
     year: Unknown Year
   KRINDCEAAAAJ:blknAaTinKkC:
-    citations: 22
+    citations: 23
     title: 'LESS: linear equivalence signature scheme'
     year: '2023'
   KRINDCEAAAAJ:d1gkVwhDpl0C:
@@ -250,7 +250,7 @@ papers:
     title: Fast heuristic algorithms for computing relations in the class group of a quadratic order, with applications to isogeny evaluation
     year: '2016'
   KRINDCEAAAAJ:u-x6o8ySG0sC:
-    citations: 201
+    citations: 202
     title: Efficient quantum algorithms for computing class groups and solving the principal ideal problem in arbitrary degree number fields
     year: '2016'
   KRINDCEAAAAJ:u5HHmVD_uO8C:
