@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-09'
+  last_updated: '2026-01-14'
 papers:
   KRINDCEAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -90,7 +90,7 @@ papers:
     title: Anonymity preserving data collection using homomorphic encryption
     year: '2023'
   KRINDCEAAAAJ:RHpTSmoSYBkC:
-    citations: 49
+    citations: 48
     title: On the computational hardness of the code equivalence problem in cryptography
     year: '2022'
   KRINDCEAAAAJ:TFP_iSt0sucC:
