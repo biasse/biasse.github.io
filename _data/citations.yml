@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-01-21'
 papers:
   KRINDCEAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -90,7 +90,7 @@ papers:
     title: Anonymity preserving data collection using homomorphic encryption
     year: '2023'
   KRINDCEAAAAJ:RHpTSmoSYBkC:
-    citations: 48
+    citations: 49
     title: On the computational hardness of the code equivalence problem in cryptography
     year: '2022'
   KRINDCEAAAAJ:TFP_iSt0sucC:
@@ -250,7 +250,7 @@ papers:
     title: Fast heuristic algorithms for computing relations in the class group of a quadratic order, with applications to isogeny evaluation
     year: '2016'
   KRINDCEAAAAJ:u-x6o8ySG0sC:
-    citations: 202
+    citations: 204
     title: Efficient quantum algorithms for computing class groups and solving the principal ideal problem in arbitrary degree number fields
     year: '2016'
   KRINDCEAAAAJ:u5HHmVD_uO8C:
