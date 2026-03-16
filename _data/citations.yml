@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-16'
 papers:
   KRINDCEAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -14,7 +14,7 @@ papers:
     title: Improvements in the computation of ideal class groups of imaginary quadratic number fields
     year: '2012'
   KRINDCEAAAAJ:4JMBOYKVnBMC:
-    citations: 24
+    citations: 25
     title: "Quantum algorithms for attacking hardness assumptions in classical and post\u2010quantum cryptography"
     year: '2023'
   KRINDCEAAAAJ:4TOpqqG69KYC:
@@ -38,7 +38,7 @@ papers:
     title: A trade-off between classical and quantum circuit size for an attack against CSIDH
     year: '2020'
   KRINDCEAAAAJ:9yKSN-GCB0IC:
-    citations: 157
+    citations: 158
     title: A quantum algorithm for computing isogenies between supersingular elliptic curves
     year: '2014'
   KRINDCEAAAAJ:BqipwSGYUEgC:
@@ -50,11 +50,11 @@ papers:
     title: An efficient quantum algorithm for computing -units and its applications
     year: '2025'
   KRINDCEAAAAJ:HDshCWvjkbEC:
-    citations: 81
+    citations: 82
     title: 'LESS-FM: fine-tuning signatures from the code equivalence problem'
     year: '2021'
   KRINDCEAAAAJ:IWHjjKOFINEC:
-    citations: 122
+    citations: 125
     title: 'LESS is more: code-based signatures without syndromes'
     year: '2020'
   KRINDCEAAAAJ:IjCSPb-OGe4C:
@@ -70,7 +70,7 @@ papers:
     title: Improvements on the computation of the hnf of a module over the ring of integers of a number field
     year: '2014'
   KRINDCEAAAAJ:M3NEmzRMIkIC:
-    citations: 3
+    citations: 4
     title: 'The Code Equivalence Problem and Its Applications to Cryptography: J.-F. Biasse and G. Micheli'
     year: '2025'
   KRINDCEAAAAJ:MXK_kJrjxJIC:
@@ -94,7 +94,7 @@ papers:
     title: Anonymity preserving data collection using homomorphic encryption
     year: '2023'
   KRINDCEAAAAJ:RHpTSmoSYBkC:
-    citations: 50
+    citations: 52
     title: On the computational hardness of the code equivalence problem in cryptography
     year: '2022'
   KRINDCEAAAAJ:TFP_iSt0sucC:
@@ -126,7 +126,7 @@ papers:
     title: "On the quantum attacks against schemes relying on the hardness of finding a short generator of an ideal in Q (\u03B6pn)"
     year: '2015'
   KRINDCEAAAAJ:WF5omc3nYNoC:
-    citations: 48
+    citations: 47
     title: FHEW with efficient multibit bootstrapping
     year: '2015'
   KRINDCEAAAAJ:Wp0gIr-vW9MC:
@@ -158,7 +158,7 @@ papers:
     title: On the computation of the HNF of a module over the ring of integers of a number field
     year: '2017'
   KRINDCEAAAAJ:_Qo2XoVZTnwC:
-    citations: 52
+    citations: 53
     title: Advanced signature functionalities from the code equivalence problem
     year: '2022'
   KRINDCEAAAAJ:_kc_bZDykSQC:
@@ -174,7 +174,7 @@ papers:
     title: ANTS X
     year: Unknown Year
   KRINDCEAAAAJ:blknAaTinKkC:
-    citations: 29
+    citations: 31
     title: "LESS\u2014Linear equivalence signature scheme"
     year: '2023'
   KRINDCEAAAAJ:d1gkVwhDpl0C:
@@ -214,7 +214,7 @@ papers:
     title: A search-to-decision reduction for the permutation code equivalence problem
     year: '2023'
   KRINDCEAAAAJ:isC4tDSrTZIC:
-    citations: 4
+    citations: 5
     title: Asymptotic improvements to provable algorithms for the code equivalence problem
     year: '2025'
   KRINDCEAAAAJ:j3f4tGmQtD8C:
@@ -250,7 +250,7 @@ papers:
     title: Fast multiquadratic S-unit computation and application to the calculation of class groups
     year: '2019'
   KRINDCEAAAAJ:r0BpntZqJG4C:
-    citations: 3
+    citations: 4
     title: An algorithm for solving the principal ideal problem with subfields
     year: '2024'
   KRINDCEAAAAJ:roLk4NBRz8UC:
@@ -270,6 +270,6 @@ papers:
     title: New techniques for computing the ideal class group and a system of fundamental units in number fields
     year: '2012'
   KRINDCEAAAAJ:zYLM7Y9cAGgC:
-    citations: 42
+    citations: 44
     title: Security estimates for quadratic field based cryptosystems
     year: '2010'
