@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-08'
 papers:
   KRINDCEAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -54,7 +54,7 @@ papers:
     title: 'LESS-FM: fine-tuning signatures from the code equivalence problem'
     year: '2021'
   KRINDCEAAAAJ:IWHjjKOFINEC:
-    citations: 126
+    citations: 127
     title: 'LESS is more: code-based signatures without syndromes'
     year: '2020'
   KRINDCEAAAAJ:IjCSPb-OGe4C:
@@ -96,10 +96,10 @@ papers:
   KRINDCEAAAAJ:RHpTSmoSYBkC:
     citations: 52
     title: On the computational hardness of the code equivalence problem in cryptography
-    year: '2023'
+    year: '2022'
   KRINDCEAAAAJ:TFP_iSt0sucC:
-    citations: 12
-    title: 'PEARL-SCALLOP: Parameter Extension Applicable in Real Life for SCALLOP'
+    citations: 13
+    title: 'PEARL-SCALLOP: Parameter extension applicable in real-life SCALLOP'
     year: '2024'
   KRINDCEAAAAJ:TQgYirikUcIC:
     citations: 2
@@ -154,11 +154,11 @@ papers:
     title: 'Approximate Short Vectors in Ideal Lattices of  with Precomputation of '
     year: '2017'
   KRINDCEAAAAJ:_FxGoFyzp5QC:
-    citations: 27
+    citations: 28
     title: On the computation of the HNF of a module over the ring of integers of a number field
     year: '2017'
   KRINDCEAAAAJ:_Qo2XoVZTnwC:
-    citations: 53
+    citations: 54
     title: Advanced signature functionalities from the code equivalence problem
     year: '2022'
   KRINDCEAAAAJ:_kc_bZDykSQC:
@@ -174,7 +174,7 @@ papers:
     title: ANTS X
     year: Unknown Year
   KRINDCEAAAAJ:blknAaTinKkC:
-    citations: 31
+    citations: 33
     title: "LESS\u2014Linear equivalence signature scheme"
     year: '2023'
   KRINDCEAAAAJ:d1gkVwhDpl0C:
@@ -214,7 +214,7 @@ papers:
     title: A search-to-decision reduction for the permutation code equivalence problem
     year: '2023'
   KRINDCEAAAAJ:isC4tDSrTZIC:
-    citations: 5
+    citations: 6
     title: Asymptotic improvements to provable algorithms for the code equivalence problem
     year: '2025'
   KRINDCEAAAAJ:j3f4tGmQtD8C:
@@ -258,7 +258,7 @@ papers:
     title: Fast heuristic algorithms for computing relations in the class group of a quadratic order, with applications to isogeny evaluation
     year: '2016'
   KRINDCEAAAAJ:u-x6o8ySG0sC:
-    citations: 205
+    citations: 206
     title: Efficient quantum algorithms for computing class groups and solving the principal ideal problem in arbitrary degree number fields
     year: '2016'
   KRINDCEAAAAJ:u5HHmVD_uO8C:
