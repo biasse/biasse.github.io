@@ -97,7 +97,7 @@ Summer 2022; Spring 2020
 University of South Florida  
 2026
 
-**Killam Laureate** (Killam Visiting Scholar) 
+**Killam Laureate** (Killam Visiting Scholar)  
 Killam Trust  
 2025
 
@@ -132,7 +132,7 @@ $2,497,545
 
 **REU Site: Cryptography and Coding Theory at the University of South Florida**  
 Role: PI — NSF Award #2244488  
-2023 – 2027
+2023 – 2027  
 $447,000
 
 **SaTC: CORE: Small: Applications of Galois Theory to the Search for Non-Linear Functions**  
@@ -151,7 +151,7 @@ Role: PI — NSF Award #1839805
 $232,269
 
 **Tools for the Standardization of Post-Quantum Cryptography**  
-Role: PI — NIST Award #60NANB17D184
+Role: PI — NIST Award #60NANB17D184  
 2017 – 2021  
 $498,860
 
