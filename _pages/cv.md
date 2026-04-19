@@ -88,3 +88,71 @@ Summer 2022; Spring 2020
 
 **Visiting Scholar**, University of Sydney  
 2010 – 2011
+
+---
+
+## Awards
+
+**Outstanding Research Achievement Award**  
+University of South Florida  
+2026
+
+**Killam Laureate** (Killam Visiting Scholar) 
+Killam Trust  
+2025
+
+**Fulbright U.S. Scholar**  
+U.S. Department of State  
+2023
+
+**Outstanding Research Achievement Award**  
+University of South Florida  
+2020
+
+**Outstanding Faculty Award**  
+University of South Florida  
+2020
+
+**Partnership & Innovation Award**  
+Florida High Tech Corridor  
+2020
+
+**NSF CAREER Award**  
+National Science Foundation  
+2019
+
+---
+
+## Federal Funding
+
+**RTG: Applied Algebra at the University of South Florida**  
+Role: PI — NSF Award #2342254  
+2024 – 2029  
+$2,497,545
+
+**REU Site: Cryptography and Coding Theory at the University of South Florida**  
+Role: PI — NSF Award #2244488  
+2023 – 2027
+$447,000
+
+**SaTC: CORE: Small: Applications of Galois Theory to the Search for Non-Linear Functions**  
+Role: Co-PI — NSF Award #2127742  
+2021 – 2025  
+$500,000
+
+**CAREER: Algebraic Methods for the Computation of Approximate Short Vectors in Ideal Lattices**  
+Role: PI — NSF Award #1846166  
+2019 – 2025  
+$458,000
+
+**EAGER: Quantum-Safe Cryptosystems Based on Isogenies**  
+Role: PI — NSF Award #1839805  
+2018 – 2021  
+$232,269
+
+**Tools for the Standardization of Post-Quantum Cryptography**  
+Role: PI — NIST Award #60NANB17D184
+2017 – 2021  
+$498,860
+
+
