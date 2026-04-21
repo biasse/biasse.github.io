@@ -125,6 +125,11 @@ National Science Foundation
 
 ## Federal Funding
 
+**REU Site: Cryptography, Coding Theory, and Quantum Computing at the University of South Florida**  
+Role: PI — NSF Award #2548160  
+2026 – 2029  
+$471,375
+
 **RTG: Applied Algebra at the University of South Florida**  
 Role: PI — NSF Award #2342254  
 2024 – 2029  
