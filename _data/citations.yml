@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-24'
 papers:
   KRINDCEAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -50,11 +50,11 @@ papers:
     title: An efficient quantum algorithm for computing -units and its applications
     year: '2025'
   KRINDCEAAAAJ:HDshCWvjkbEC:
-    citations: 82
+    citations: 83
     title: 'LESS-FM: fine-tuning signatures from the code equivalence problem'
     year: '2021'
   KRINDCEAAAAJ:IWHjjKOFINEC:
-    citations: 127
+    citations: 130
     title: 'LESS is more: code-based signatures without syndromes'
     year: '2020'
   KRINDCEAAAAJ:IjCSPb-OGe4C:
@@ -62,7 +62,7 @@ papers:
     title: A polynomial time algorithm for computing the HNF of a module over the integers of a number field
     year: '2012'
   KRINDCEAAAAJ:L8Ckcad2t8MC:
-    citations: 27
+    citations: 28
     title: Norm relations and computational problems in number fields
     year: '2022'
   KRINDCEAAAAJ:LkGwnXOMwfcC:
@@ -126,7 +126,7 @@ papers:
     title: "On the quantum attacks against schemes relying on the hardness of finding a short generator of an ideal in Q (\u03B6pn)"
     year: '2015'
   KRINDCEAAAAJ:WF5omc3nYNoC:
-    citations: 47
+    citations: 48
     title: FHEW with efficient multibit bootstrapping
     year: '2015'
   KRINDCEAAAAJ:Wp0gIr-vW9MC:
@@ -174,11 +174,11 @@ papers:
     title: ANTS X
     year: Unknown Year
   KRINDCEAAAAJ:blknAaTinKkC:
-    citations: 33
+    citations: 35
     title: "LESS\u2014Linear equivalence signature scheme"
     year: '2023'
   KRINDCEAAAAJ:d1gkVwhDpl0C:
-    citations: 106
+    citations: 107
     title: Subexponential class group and unit group computation in large degree number fields
     year: '2014'
   KRINDCEAAAAJ:dhFuZR0502QC:
@@ -258,7 +258,7 @@ papers:
     title: Fast heuristic algorithms for computing relations in the class group of a quadratic order, with applications to isogeny evaluation
     year: '2016'
   KRINDCEAAAAJ:u-x6o8ySG0sC:
-    citations: 206
+    citations: 207
     title: Efficient quantum algorithms for computing class groups and solving the principal ideal problem in arbitrary degree number fields
     year: '2016'
   KRINDCEAAAAJ:u5HHmVD_uO8C:
