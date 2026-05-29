@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-29'
 papers:
   KRINDCEAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -14,11 +14,11 @@ papers:
     title: Improvements in the computation of ideal class groups of imaginary quadratic number fields
     year: '2012'
   KRINDCEAAAAJ:4JMBOYKVnBMC:
-    citations: 26
+    citations: 27
     title: "Quantum algorithms for attacking hardness assumptions in classical and post\u2010quantum cryptography"
     year: '2023'
   KRINDCEAAAAJ:4TOpqqG69KYC:
-    citations: 37
+    citations: 38
     title: A note on the security of CSIDH
     year: '2018'
   KRINDCEAAAAJ:5nxA0vEk-isC:
@@ -30,7 +30,7 @@ papers:
     title: "A fast algorithm for finding a short generator of a principal ideal of Q (\u03B62n)"
     year: '2015'
   KRINDCEAAAAJ:8k81kl-MbHgC:
-    citations: 57
+    citations: 58
     title: 'Computing Generator in Cyclotomic Integer Rings: A Subfield Algorithm for the Principal Ideal Problem in and Application to the Cryptanalysis of a FHE Scheme'
     year: '2017'
   KRINDCEAAAAJ:9ZlFYXVOiuMC:
@@ -38,7 +38,7 @@ papers:
     title: A trade-off between classical and quantum circuit size for an attack against CSIDH
     year: '2020'
   KRINDCEAAAAJ:9yKSN-GCB0IC:
-    citations: 158
+    citations: 161
     title: A quantum algorithm for computing isogenies between supersingular elliptic curves
     year: '2014'
   KRINDCEAAAAJ:BqipwSGYUEgC:
@@ -50,11 +50,11 @@ papers:
     title: An efficient quantum algorithm for computing -units and its applications
     year: '2025'
   KRINDCEAAAAJ:HDshCWvjkbEC:
-    citations: 83
+    citations: 85
     title: 'LESS-FM: fine-tuning signatures from the code equivalence problem'
     year: '2021'
   KRINDCEAAAAJ:IWHjjKOFINEC:
-    citations: 130
+    citations: 138
     title: 'LESS is more: code-based signatures without syndromes'
     year: '2020'
   KRINDCEAAAAJ:IjCSPb-OGe4C:
@@ -93,12 +93,16 @@ papers:
     citations: 0
     title: Anonymity preserving data collection using homomorphic encryption
     year: '2023'
+  KRINDCEAAAAJ:RGFaLdJalmkC:
+    citations: 0
+    title: On the hull attacks against Construction A lattices
+    year: Unknown Year
   KRINDCEAAAAJ:RHpTSmoSYBkC:
-    citations: 53
+    citations: 55
     title: On the computational hardness of the code equivalence problem in cryptography
-    year: '2022'
+    year: '2023'
   KRINDCEAAAAJ:TFP_iSt0sucC:
-    citations: 14
+    citations: 15
     title: 'PEARL-SCALLOP: Parameter extension applicable in real-life SCALLOP'
     year: '2024'
   KRINDCEAAAAJ:TQgYirikUcIC:
@@ -122,7 +126,7 @@ papers:
     title: An L (1/3) algorithm for discrete logarithm computation and principality testing in certain number fields
     year: '2012'
   KRINDCEAAAAJ:W7OEmFMy1HYC:
-    citations: 10
+    citations: 11
     title: "On the quantum attacks against schemes relying on the hardness of finding a short generator of an ideal in Q (\u03B6pn)"
     year: '2015'
   KRINDCEAAAAJ:WF5omc3nYNoC:
@@ -154,11 +158,11 @@ papers:
     title: 'Approximate Short Vectors in Ideal Lattices of  with Precomputation of '
     year: '2017'
   KRINDCEAAAAJ:_FxGoFyzp5QC:
-    citations: 28
+    citations: 29
     title: On the computation of the HNF of a module over the ring of integers of a number field
     year: '2017'
   KRINDCEAAAAJ:_Qo2XoVZTnwC:
-    citations: 55
+    citations: 59
     title: Advanced signature functionalities from the code equivalence problem
     year: '2022'
   KRINDCEAAAAJ:_kc_bZDykSQC:
@@ -174,7 +178,7 @@ papers:
     title: ANTS X
     year: Unknown Year
   KRINDCEAAAAJ:blknAaTinKkC:
-    citations: 35
+    citations: 37
     title: "LESS\u2014Linear equivalence signature scheme"
     year: '2023'
   KRINDCEAAAAJ:d1gkVwhDpl0C:
@@ -210,11 +214,11 @@ papers:
     title: Smoothness testing of polynomials over finite fields.
     year: '2014'
   KRINDCEAAAAJ:iH-uZ7U-co4C:
-    citations: 7
+    citations: 8
     title: A search-to-decision reduction for the permutation code equivalence problem
     year: '2023'
   KRINDCEAAAAJ:isC4tDSrTZIC:
-    citations: 6
+    citations: 9
     title: Asymptotic improvements to provable algorithms for the code equivalence problem
     year: '2025'
   KRINDCEAAAAJ:j3f4tGmQtD8C:
@@ -242,7 +246,7 @@ papers:
     title: 'Trace-: a privacy-preserving contact tracing app'
     year: '2020'
   KRINDCEAAAAJ:qjMakFHDy7sC:
-    citations: 37
+    citations: 38
     title: Subexponential time relations in the class group of large degree number fields.
     year: '2014'
   KRINDCEAAAAJ:qxL8FJ1GzNcC:
@@ -258,7 +262,7 @@ papers:
     title: Fast heuristic algorithms for computing relations in the class group of a quadratic order, with applications to isogeny evaluation
     year: '2016'
   KRINDCEAAAAJ:u-x6o8ySG0sC:
-    citations: 207
+    citations: 212
     title: Efficient quantum algorithms for computing class groups and solving the principal ideal problem in arbitrary degree number fields
     year: '2016'
   KRINDCEAAAAJ:u5HHmVD_uO8C:
