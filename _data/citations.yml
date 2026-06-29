@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-29'
 papers:
   KRINDCEAAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -18,7 +18,7 @@ papers:
     title: "Quantum algorithms for attacking hardness assumptions in classical and post\u2010quantum cryptography"
     year: '2023'
   KRINDCEAAAAJ:4TOpqqG69KYC:
-    citations: 38
+    citations: 39
     title: A note on the security of CSIDH
     year: '2018'
   KRINDCEAAAAJ:5nxA0vEk-isC:
@@ -38,7 +38,7 @@ papers:
     title: A trade-off between classical and quantum circuit size for an attack against CSIDH
     year: '2020'
   KRINDCEAAAAJ:9yKSN-GCB0IC:
-    citations: 160
+    citations: 161
     title: A quantum algorithm for computing isogenies between supersingular elliptic curves
     year: '2014'
   KRINDCEAAAAJ:BqipwSGYUEgC:
@@ -50,11 +50,11 @@ papers:
     title: An efficient quantum algorithm for computing -units and its applications
     year: '2025'
   KRINDCEAAAAJ:HDshCWvjkbEC:
-    citations: 85
+    citations: 86
     title: 'LESS-FM: fine-tuning signatures from the code equivalence problem'
     year: '2021'
   KRINDCEAAAAJ:IWHjjKOFINEC:
-    citations: 140
+    citations: 142
     title: 'LESS is more: code-based signatures without syndromes'
     year: '2020'
   KRINDCEAAAAJ:IjCSPb-OGe4C:
@@ -218,7 +218,7 @@ papers:
     title: A search-to-decision reduction for the permutation code equivalence problem
     year: '2023'
   KRINDCEAAAAJ:isC4tDSrTZIC:
-    citations: 10
+    citations: 11
     title: Asymptotic improvements to provable algorithms for the code equivalence problem
     year: '2025'
   KRINDCEAAAAJ:j3f4tGmQtD8C:
