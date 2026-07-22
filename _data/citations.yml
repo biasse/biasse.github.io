@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-22'
 papers:
   KRINDCEAAAAJ:-f6ydRqryjwC:
     citations: 7
     title: 'LESS-FM: Fine-tuning Signatures from a Code-based Cryptographic Group Action.'
     year: '2021'
   KRINDCEAAAAJ:0EnyYjriUFMC:
-    citations: 0
+    citations: 1
     title: An L (1/3) algorithm for ideal class group and regulator computation in certain number fields
     year: '2009'
   KRINDCEAAAAJ:2osOgNQ5qMEC:
@@ -34,11 +34,11 @@ papers:
     title: 'Computing Generator in Cyclotomic Integer Rings: A Subfield Algorithm for the Principal Ideal Problem in and Application to the Cryptanalysis of a FHE Scheme'
     year: '2017'
   KRINDCEAAAAJ:9ZlFYXVOiuMC:
-    citations: 9
+    citations: 10
     title: A trade-off between classical and quantum circuit size for an attack against CSIDH
     year: '2020'
   KRINDCEAAAAJ:9yKSN-GCB0IC:
-    citations: 161
+    citations: 162
     title: A quantum algorithm for computing isogenies between supersingular elliptic curves
     year: '2014'
   KRINDCEAAAAJ:BqipwSGYUEgC:
@@ -54,7 +54,7 @@ papers:
     title: 'LESS-FM: fine-tuning signatures from the code equivalence problem'
     year: '2021'
   KRINDCEAAAAJ:IWHjjKOFINEC:
-    citations: 142
+    citations: 145
     title: 'LESS is more: code-based signatures without syndromes'
     year: '2020'
   KRINDCEAAAAJ:IjCSPb-OGe4C:
@@ -98,11 +98,11 @@ papers:
     title: On the hull attacks against Construction A lattices
     year: Unknown Year
   KRINDCEAAAAJ:RHpTSmoSYBkC:
-    citations: 56
+    citations: 57
     title: On the computational hardness of the code equivalence problem in cryptography
     year: '2023'
   KRINDCEAAAAJ:TFP_iSt0sucC:
-    citations: 16
+    citations: 17
     title: Faster SCALLOP from Non-Prime Conductor Suborders in Medium Sized Quadratic Fields
     year: '2025'
   KRINDCEAAAAJ:TQgYirikUcIC:
@@ -162,7 +162,7 @@ papers:
     title: On the computation of the HNF of a module over the ring of integers of a number field
     year: '2017'
   KRINDCEAAAAJ:_Qo2XoVZTnwC:
-    citations: 59
+    citations: 60
     title: Advanced signature functionalities from the code equivalence problem
     year: '2022'
   KRINDCEAAAAJ:_kc_bZDykSQC:
@@ -178,11 +178,11 @@ papers:
     title: ANTS X
     year: Unknown Year
   KRINDCEAAAAJ:blknAaTinKkC:
-    citations: 39
+    citations: 40
     title: "LESS\u2014Linear equivalence signature scheme"
     year: '2023'
   KRINDCEAAAAJ:d1gkVwhDpl0C:
-    citations: 107
+    citations: 109
     title: Subexponential class group and unit group computation in large degree number fields
     year: '2014'
   KRINDCEAAAAJ:dhFuZR0502QC:
@@ -250,7 +250,7 @@ papers:
     title: Subexponential time relations in the class group of large degree number fields.
     year: '2014'
   KRINDCEAAAAJ:qxL8FJ1GzNcC:
-    citations: 25
+    citations: 26
     title: Fast multiquadratic S-unit computation and application to the calculation of class groups
     year: '2019'
   KRINDCEAAAAJ:r0BpntZqJG4C:
@@ -262,7 +262,7 @@ papers:
     title: Fast heuristic algorithms for computing relations in the class group of a quadratic order, with applications to isogeny evaluation
     year: '2016'
   KRINDCEAAAAJ:u-x6o8ySG0sC:
-    citations: 212
+    citations: 214
     title: Efficient quantum algorithms for computing class groups and solving the principal ideal problem in arbitrary degree number fields
     year: '2016'
   KRINDCEAAAAJ:u5HHmVD_uO8C:
@@ -270,7 +270,7 @@ papers:
     title: Non-randomness in eSTREAM Candidates Salsa20 and TSC-4
     year: '2006'
   KRINDCEAAAAJ:ufrVoPGSRksC:
-    citations: 6
+    citations: 7
     title: New techniques for computing the ideal class group and a system of fundamental units in number fields
     year: '2012'
   KRINDCEAAAAJ:zYLM7Y9cAGgC:
